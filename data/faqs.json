@@ -1,0 +1,73 @@
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "Artificial Intelligence (AI) is a field of computer science that enables machines to perform tasks that normally require human intelligence, such as learning, reasoning, and decision-making."
+    },
+    {
+
+    
+    "question": "What is Machine Learning?",
+    "examples": [
+        "What is machine learning?",
+        "How does machine learning work?",
+        "Can computers learn from data?",
+        "How do machines learn?",
+        "What do you mean by machine learning?"
+    ],
+    "answer": "Machine Learning (ML) is a branch of AI that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every situation."
+
+
+    },
+    {
+        "question": "What is the difference between AI and Machine Learning?",
+        "answer": "AI is the broader concept of creating intelligent machines, while Machine Learning is a subset of AI that focuses on learning patterns from data."
+    },
+    {
+        "question": "What is supervised learning?",
+        "answer": "Supervised learning is a type of machine learning where a model learns from labeled training data containing input examples and their corresponding correct outputs."
+    },
+    {
+        "question": "What is unsupervised learning?",
+        "answer": "Unsupervised learning is a type of machine learning where a model finds patterns or structures in data without predefined labels."
+    },
+    {
+        "question": "What is a dataset?",
+        "answer": "A dataset is a collection of data used for analysis, training machine learning models, testing, or evaluation."
+    },
+    {
+        "question": "What is overfitting?",
+        "answer": "Overfitting occurs when a machine learning model learns the training data too closely, including its noise, and performs poorly on new or unseen data."
+    },
+    {
+        "question": "What is underfitting?",
+        "answer": "Underfitting occurs when a model is too simple to learn the important patterns in the training data, resulting in poor performance on both training and new data."
+    },
+    {
+        "question": "What is Natural Language Processing?",
+        "answer": "Natural Language Processing (NLP) is a field of AI that enables computers to process, understand, and work with human language."
+    },
+    {
+        "question": "What is Deep Learning?",
+        "answer": "Deep Learning is a branch of machine learning that uses neural networks with multiple layers to learn complex patterns from data."
+    },
+    {
+        "question": "What is a neural network?",
+        "answer": "A neural network is a machine learning model inspired by the structure of the human brain. It consists of interconnected nodes called neurons that process information."
+    },
+    {
+        "question": "What is training data?",
+        "answer": "Training data is the portion of a dataset used to teach a machine learning model to recognize patterns and make predictions."
+    },
+    {
+        "question": "What is testing data?",
+        "answer": "Testing data is a separate portion of a dataset used to evaluate how well a trained machine learning model performs on unseen data."
+    },
+    {
+        "question": "What is classification in machine learning?",
+        "answer": "Classification is a supervised learning task where a model assigns data to predefined categories or classes."
+    },
+    {
+        "question": "What is regression in machine learning?",
+        "answer": "Regression is a supervised learning task where a model predicts a continuous numerical value based on input data."
+    }
+]
